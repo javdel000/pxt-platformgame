@@ -1,7 +1,9 @@
 {
     "name": "platformGame",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.0.30",
+        "color-coded-tilemap": "*"
     },
     "description": "",
     "files": [
